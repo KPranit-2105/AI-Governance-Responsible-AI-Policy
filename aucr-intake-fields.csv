@@ -1,0 +1,10 @@
+Field,Description
+Business purpose,What problem does this AI system solve?
+Intended users,Who within NorthStar will use this system?
+Affected individuals,"Which external parties (customers, applicants, etc.) will be affected by AI outputs?"
+Data sources,What data will the system process? Identify personal data explicitly.
+Output type,"What does the system produce — recommendations, decisions, scores, generated content?"
+Human oversight plan,How will human oversight be implemented? Who will review AI outputs before action is taken?
+Vendor or internal,"Is this a vendor solution or internally developed? If vendor, who?"
+Proposed go-live date,Requested production date
+System owner,Named individual accepting accountability for governance

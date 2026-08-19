@@ -1,0 +1,10 @@
+Role,Responsibility
+**Board Risk & Audit Committee**,Oversight of AI governance programme; approval of high-risk AI systems; annual review of AI governance report
+**Chief Risk Officer**,Policy owner; chairs AI Governance Committee
+**AI Governance Committee**,Cross-functional governance body; approves high-risk systems; reviews incidents; oversees compliance
+**AI Governance Programme Office**,Programme coordination; triage; documentation; training; reporting
+**System Owners**,Accountability for individual systems; day-to-day oversight; escalation
+**Data Protection Officer**,GDPR and AI Act data governance interface; co-reviews high-risk assessments
+**Legal / Compliance**,Regulatory interpretation; contract review; incident escalation advice
+**Information Security**,Cybersecurity and adversarial robustness assessment
+**ML Engineering / Data Science**,Technical implementation of governance controls; model documentation

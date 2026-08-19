@@ -1,0 +1,7 @@
+Existing Function,AI Governance Interface
+**Enterprise Risk Management**,AI risk is a sub-category of operational and conduct risk. AI Governance Committee reports into ERM framework. AI System Inventory feeds enterprise risk register for material AI risks.
+**Data Governance / DPO**,DPO is a member of AI Governance Committee. All AUCRs involving personal data are co-reviewed by DPO. DPIA and AI risk assessment are coordinated as a combined exercise where both are required.
+**Information Security / CISO**,CISO (or delegate) sits on high-risk review panels. Adversarial robustness and cybersecurity requirements for AI systems are owned by Information Security with AI Governance oversight.
+**Legal and Compliance**,Legal provides regulatory interpretation for classification decisions and contract review for vendor AI. Compliance monitors EU AI Act and sector-specific regulatory developments.
+**Procurement**,AGPO provides an AI governance assessment checklist for use in vendor procurement processes. Procurement notifies AGPO of AI-related vendor selections before contract signature.
+**Internal Audit**,"Internal Audit will include AI governance programme effectiveness in its annual plan. AGPO provides audit access to AI System Inventory, risk assessments, and approval documentation."

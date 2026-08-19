@@ -1,0 +1,6 @@
+Policy Principle,Operational Control ID,Mandatory Implementation Requirement,Required Evidence Artefact,Oversight Owner
+**3.1 Fairness**,`CTRL-POL-001`,Pre-deployment bias evaluation across EU protected characteristics,`[SIMULATED EVIDENCE]` Independent Bias Audit Report & Disparate Impact Logs,AGPO + DPO
+**3.2 Transparency**,`CTRL-POL-002`,Customer & applicant disclosure banner + SHAP/Feature attribution engine,`[SIMULATED EVIDENCE]` Disclosure Banner Spec & Candidate Explanation Log,System Owner + CX Lead
+**3.3 Accountability**,`CTRL-POL-003`,Registration in AI System Inventory & named senior executive owner,`[SIMULATED EVIDENCE]` AI System Inventory Entry & Annual Scope Attestation,System Owner
+**3.4 Safety & Robustness**,`CTRL-POL-004`,Pre-deployment adversarial testing & automated metric degradation alerts,`[SIMULATED EVIDENCE]` Penetration Test Report & Daily Monitoring Alert Spec,CISO + ML Engineering
+**3.5 Human Oversight**,`CTRL-POL-005`,Active decision gate requiring human review before candidate/customer action,`[SIMULATED EVIDENCE]` ATS Reviewer Approval Sign-off Log,HR Director / Ops Lead

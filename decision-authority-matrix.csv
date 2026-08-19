@@ -1,0 +1,8 @@
+Decision,System Owner,AGPO,AI Governance Committee,Board R&A
+Approve minimal-risk system,Recommends,**Approves**,Notified,—
+Approve limited-risk system,Recommends,**Approves** (with Legal and DPO sign-off),Notified,—
+Approve high-risk system,Recommends,Coordinates review,**Approves**,Notified
+Suspend system due to incident,**Immediate suspension authority**,Notified immediately,Informed within 24h,—
+Reject use case,—,**Decides** (with Committee endorsement for High Risk),**Endorses** rejection of High Risk,—
+Update Responsible AI Policy,—,Drafts,**Approves**,**Endorses**
+Escalate to regulator,—,Recommends,**Decides**,Informed

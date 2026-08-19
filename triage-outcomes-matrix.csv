@@ -1,0 +1,5 @@
+Outcome,Action
+Prohibited use case,Reject. Notify Chief Risk Officer. Document decision.
+Minimal or Limited Risk,Route to Standard Review.
+High Risk (confirmed or probable),Route to Enhanced Review. Brief system owner on requirements.
+Unclear classification,Engage Legal and DPO for classification opinion before routing.
